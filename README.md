@@ -6,8 +6,9 @@ Some of the projects were ordered by my high-school teachers, as a way to teach 
 
 Thanks to Flash, I could have contact with ActionScript -- my first programing language.
 
-_If you have a windows machine you can watch the .exe files or use the players available in this repo (flashplayer_32_sa_debug.exe) to watch the SWF files._
-
 It looks silly nowadays but took a lot of effort, and inspiration in those times, building animations in an AMD 800 MHz Athlon PC. It felt amazing to explore all the resources provided in the Flash tool! Thank you Macromedia team, wherever you might be. 
 
 Have fun! 🎉
+
+
+Ps.: _If you have a windows machine you can watch the .exe files or use the players available in this repo (flashplayer_32_sa_debug.exe) to watch the SWF files._

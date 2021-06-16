@@ -1,0 +1,237 @@
+Movie Report
+------------
+
+Frame #    Frame Bytes    Total Bytes    Page
+-------    -----------    -----------    ---------------
+    1        888232         888232        intro
+    2           388         888620          2
+    3           138         888758          3
+    4         12094         900852        title
+    5         80223         981075        indice
+    6            28         981103          2
+    7            28         981131          3
+    8            28         981159          4
+    9            28         981187          5
+   10            28         981215          6
+   11            28         981243          7
+   12            29         981272          8
+   13            29         981301          9
+   14         17329         998630          10
+   15          1676        1000306        Cult. Baixa Id. Med.
+   16             2        1000308          2
+   17             2        1000310          3
+   18             2        1000312          4
+   19             2        1000314          5
+   20             2        1000316          6
+   21             2        1000318          7
+   22             2        1000320          8
+   23             2        1000322          9
+   24          3183        1003505          10
+   25        110565        1114070        universidades
+   26         82993        1197063        Filosofia
+   27          5445        1202508          2
+   28         75742        1278250        Literatura
+   29         40799        1319049        Dominicanos
+   30          8455        1327504        Arquitetura
+   31         98279        1425783          2
+   32         17959        1443742          3
+   33         67012        1510754          4
+   34         51909        1562663          5
+   35         51751        1614414          6
+   36        151330        1765744        final
+   37          1522        1767266        Fim
+
+Page                       Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+intro                             0           178
+title                             0            53
+indice                         2340           133
+Cult. Baixa Id. Med.              0            53
+universidades                  4366           146
+Filosofia                      2547           518
+Literatura                      123           138
+Dominicanos                    2494           204
+Arquitetura                    5642          2858
+final                            60            53
+Fim                             339           148
+
+Embedded Objects                466             0
+
+Symbol                     Shape Bytes    Text Bytes
+-----------------------    -----------    ----------
+Symbol 227                        0             0
+Symbol 226                        0             0
+Symbol 224                       49             0
+Symbol 223                        0           189
+Symbol 222                       79             0
+Symbol 221                       49             0
+Symbol 220                       47             0
+Symbol 219                        0           263
+Symbol 218                       47             0
+Symbol 217                       49             0
+Symbol 216                        0           270
+Symbol 215                       50             0
+Symbol 214                        0             0
+Symbol 213                        0             0
+Symbol 212                        0             0
+Symbol 211                        0           135
+Symbol 210                        0           164
+Symbol 209                        0           280
+Symbol 208                       47             0
+Symbol 207                        0           213
+Symbol 206                      122           117
+Symbol 204                        0            77
+Symbol 203                        0             0
+Symbol 202                      773           608
+Tween 36                          0           726
+Symbol 192                        0             0
+Symbol 167                        0             0
+Symbol 161                       73             0
+Symbol 160                       88             0
+Symbol 159                       50             0
+Tween 33                         48             0
+Symbol 155                     4115           566
+Symbol 151                       55          1906
+Symbol 151 copy                   0          1051
+Symbol 151 copy copy              0          2074
+Symbol 137                        0           160
+Tween 32                          0          1083
+Symbol 135                       85             0
+Symbol 134                       46             0
+Symbol 124                        0             0
+Symbol 123                        0             0
+Symbol 121                        0             0
+Tween 28                          0           477
+Symbol 105                      668           147
+Tween 26                         68           119
+Symbol 93                         0             0
+Tween 24                         79             0
+Symbol 89                         0             0
+Symbol 88                        54             0
+Symbol 85                       520           228
+Tween 22                         65             0
+Symbol 81                         0             0
+Symbol 80                        45             0
+Symbol 79                       159             0
+Symbol 78                       141             0
+Symbol 77                       187             0
+Symbol 76                       155             0
+Symbol 75                       132             0
+Symbol 74                       128             0
+Symbol 73                       279             0
+Symbol 72                       167            41
+Tween 3                          46             0
+Symbol 35                        46             0
+Symbol 35 copy                    0             0
+Symbol 1                          0             0
+Symbol 6                        354             0
+Symbol 19                      2676             0
+Symbol 46 2                       0             0
+Tween 7                           0             0
+Symbol 45                         0             0
+home 3                          164             0
+Symbol 36                        90             0
+Symbol 35                       181             0
+house                           388             0
+home                              0             0
+Symbol 24                         0             0
+Tween 1                          83             0
+Symbol 23 copy copy             181             0
+Symbol 23 copy                  186             0
+anterior                          0             0
+Symbol 23                       181             0
+Symbol 23 2                      45           826
+Tween 2                          43             0
+Symbol 27                       249             0
+Symbol 41                         0             0
+Symbol 38                       207             0
+Symbol 43                         0             0
+Symbol 40                       217             0
+Symbol 42                         0             0
+Symbol 39                       218             0
+Symbol 2                        251            50
+Symbol 10                         0             0
+Symbol 9                        105            56
+Tween 1 2                         0            47
+Symbol 37                       342            82
+textoroll2 copy                   0             0
+textoroll2 copy copy              0             0
+textoroll2 copy copy copy       110             0
+bachblue                         58             0
+clip_barra_rolagem                0             0
+gel Left                        394             0
+clip_carro                        0             0
+bot_carro                         0             0
+Barra Verde                    1209             0
+clip_rolagem                      0             0
+Botão Grande Verde              445             0
+Botão Azul Grande               156             0
+Botão Grande Azul               452             0
+Botão Grande Preto              423             0
+animalfim-red-version          1673            37
+Tween 4 2                       586             0
+starII                            0             0
+Symbol 33 3                      93             0
+Botão Grande Padrão Azul        151             0
+Botão Grande Azul 2             456             0
+Botão Grande Preto 2            427             0
+
+Bitmap                     Compressed  Original    Compression
+-----------------------    ----------  ----------  ------------
+Bitmap 54                      37632      643200   JPEG Quality=50
+Bitmap 55                      26943      457600   JPEG Quality=50
+Bitmap 56                       4047       72960   JPEG Quality=50
+Bitmap 61                      19825      408000   JPEG Quality=50
+Bitmap 29                       8962       51200   JPEG Quality=50
+Bitmap 30                       6819       30400   JPEG Quality=50
+Bitmap 23                      46766      729996   JPEG Quality=50
+Bitmap 25                       7806      165000   JPEG Quality=50
+Bitmap 28                       4617       25600   JPEG Quality=50
+Bitmap 18                       4062      194036   JPEG Quality=50
+Bitmap 60                      21941      529600   JPEG Quality=50
+Bitmap 59                      29128      540800   JPEG Quality=50
+Bitmap 57                      39918      608000   JPEG Quality=50
+Bitmap 9                       35297     1920000   JPEG Quality=50
+Bitmap 15                      69051     1920000   JPEG Quality=50
+Bitmap 16                      63534     1920000   JPEG Quality=50
+Bitmap 8                        8651      149600   JPEG Quality=50
+Bitmap 6                        5819      103200   JPEG Quality=50
+Bitmap 5                        5060      172000   JPEG Quality=50
+Bitmap 14                      69191     1920000   JPEG Quality=50
+Bitmap 7                        3673       72216   JPEG Quality=50
+Bitmap 13                      77890     1920000   JPEG Quality=50
+
+Tweened Shapes: 8736 bytes
+
+Event sounds: 22KHz Stereo 16 kbps MP3
+
+Sound Name                 Bytes       Format
+-----------------------    --------    --------
+divertida                  137941        11KHz Mono 16 kbps MP3
+INTRO_IVC.WAV              859885        22KHz Mono 0 bit ADPCM
+
+Font Name                  Bytes       Characters
+-----------------------    --------    -----------
+Staccato222 BT Bold           924        .MP
+Times New Roman Bold         5189         "(),.1ACEFHIMPRSTV_abcdefghilmnopqrstuvxz®áãçéí
+Monotype Corsiva             4699         ,.;ADEIMabcdefghilmnopqrstuvzáãçéêõú
+arial Bold                   2503         ",-01235BCFLPSTacdeghilmnoprstu
+arial                        2405         (),-.0157BFINSTUacdeghijlnorstuvç
+Arial                        1654         ,.CGISTVXacdehlmnorté
+BankGothic Md BT Bold        1959         ",-BCGPRSTVabcdeghilmnopqrstuvâãó
+29 Bold                       944         Sadefgnoprsuv
+Tahoma Bold                  2280         ()-0124579APTabdeilmnoqrsuá
+Monotype Corsiva Italic      3214         ,.ADabcdefgilmnopqrstuvçóú
+Arial Bold                    937        ()Vaceiloqrtu
+Monotype Corsiva Bold Italic   7636         "(),-.124567:ACDEFGILMNOPSTUabcdefghijlmnopqrstuvxzàáãçéêíóõú
+Monotype Corsiva Bold        6744         "*,-.:ABCDEGIJMOPRXabcdefghilmnopqrstuvxzàáâãçéíóôõú
+Wingdings                     316        &
+35                            548        !?
+Webdings                      125        }
+42 Bold                      6246         AFLOUacdefilmnoqrstuvx
+Garamond Bold                4923         ,.ACEIRUXabcdefilmnoprstuvxãçéõ
+42                            434        cdein
+35 Bold                       948        Gaelr
+Times New Roman              6242         (),-.012ABCDEFIMNPSTUVXacdefghijlmnoprstuvyz©®àáãçéíóú
+BankGothic Md BT             1342         -/CDLNPVadefgilmnopqrstuzáí
+Staccato222 BT               4805         !ADIadegimnprst

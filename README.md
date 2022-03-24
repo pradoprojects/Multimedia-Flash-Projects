@@ -1,4 +1,4 @@
-# 🧩 → 👩‍💻 | Pre-Undergrad Projects
+# 📗 | Macromedia Flash Projects from the early 2000s
 
 These are projects that I developed in the late 90s/ early 2000s when I was about 15 years old and an enthusiast of Macromedia Flash.
 

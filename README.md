@@ -1,7 +1,7 @@
 # 📗 | Macromedia Flash Projects from the early 2000s
 
 <div align="center">                                                              
-  <img  style="border-radius:50px;" src="./animations.PNG" alt="Screens and characters animated in flash" width="500" height="250">
+  <img  style="border-radius:50px;" src="./animations.png" alt="Screens and characters animated in flash" width="500" height="250">
 </div>  
 
 

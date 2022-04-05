@@ -1,5 +1,10 @@
 # 📗 | Macromedia Flash Projects from the early 2000s
 
+<div align="center">                                                              
+  <img  style="border-radius:50px;" src="./animations.PNG" alt="Screens and characters animated in flash" width="500" height="250">
+</div>  
+
+
 These are projects that I developed in the late 90s/ early 2000s when I was about 15 years old and an enthusiast of Macromedia Flash.
 
 Some of the projects were created in my first paid job in a school that wanted to make their classes more playful. Others were freelance jobs. These were times when computers were a kind of mystic device in Brazil and Flash Animations was a WOW wizardry compared to PowerPoint 98 slides.

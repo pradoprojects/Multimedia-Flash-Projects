@@ -5,7 +5,7 @@
 </div>  
 
 
-These are projects that I developed in the late 90s/ early 2000s made using the Macromedia Suite.
+These are projects that I developed in the late 90s/ early 2000s using the Macromedia Suite.
 
 Some of the projects were created in my first paid job in a school that decided to make their classes more playful. Others were freelance jobs. These were times when computers were a mystic device in Brazil and Flash Animations were considered wizardry compared to PowerPoint 98 slides.
 
